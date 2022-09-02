@@ -1,2 +1,1 @@
-# vc-backend
-video chat backend
+Video chat backend
